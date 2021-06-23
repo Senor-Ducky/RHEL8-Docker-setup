@@ -32,7 +32,7 @@ and follow the steps below:
 2. Next Type this command in the Command prompt,
 
     ```
-    docker run -it --name test registry.access.redhat.com/ubi8/ubi:8.1 bash
+    docker run -it --name rhel8 registry.access.redhat.com/ubi8/ubi:8.1 bash
     ```
 
     it will look like this,
