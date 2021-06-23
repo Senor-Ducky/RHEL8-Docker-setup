@@ -65,7 +65,9 @@ first we need to enable WSL (Windows Subsystem for linux), follow the steps belo
 1. click on search icon on taskbar -> type "Turn Windows features on or off"
 
 2. you will see a menu like this:
-![](/assets/cf5e93c3e140133154b977ce11b150e3.png)
+    
+    ![](/assets/cf5e93c3e140133154b977ce11b150e3.png)
+    
     Check/Tick Windows Subsystem for linux, click ok and wait for it to enable and the prompt will ask you to restart your computer, then restart your computer.
 
 3. Now you have to update WSL1 to WSL2, download the update from [here](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi), install it .
