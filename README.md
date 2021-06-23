@@ -7,7 +7,7 @@ To Download Docker Desktop click [here](https://desktop.docker.com/win/stable/am
 
 1. Double click on the setup, you will see the following:
 
-    ![](\assets\86bf150308a1c7ae197eb114e78cbcbf.png)
+    ![](../assets/86bf150308a1c7ae197eb114e78cbcbf.png)
 
     [note: it is recommended to untick Install required Windows components for WSL 2, if you want WSL 2 capability then follow the WSL2 setup section ]
 
